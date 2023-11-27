@@ -1,0 +1,8 @@
+[
+  "test_main.py::test_create_valid_board",
+  "test_main.py::test_customer_records",
+  "test_main.py::test_google",
+  "test_main.py::test_order",
+  "test_main.py::test_string_and_int",
+  "test_main.py::test_string_only"
+]

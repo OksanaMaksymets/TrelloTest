@@ -7,8 +7,8 @@ def pytest_configure():
     pytest.org_name = "defaultorg"
     pytest.latest_board_id = ""
     pytest.auth = {
-        "key": "1b7b5e70620dfa4b23208bc12a6c84c1",
-        "token": "ATTA543c51049df436fa6792cd472760a365ca02219759c47426eb8e3441181b02eb712B9160"
+        "key": "key_sample",
+        "token": "token_sample"
     }
     pytest.BASE_URL = "https://api.trello.com"
     pytest.version = "1/"

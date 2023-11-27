@@ -1,0 +1,5 @@
+{
+  "test_main.py::test_string_only": true,
+  "test_main.py::test_customer_records": true,
+  "test_main.py": true
+}

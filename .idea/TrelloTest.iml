@@ -3,6 +3,10 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/pytest_fixtures_usage/board/API/api_rights/.pytest_cache/v" />
+      <excludeFolder url="file://$MODULE_DIR$/pytest_fixtures_usage/list/API/.pytest_cache/v" />
+      <excludeFolder url="file://$MODULE_DIR$/pytest_no_fixtures/board/API/api_tests/.pytest_cache/v" />
+      <excludeFolder url="file://$MODULE_DIR$/pytest_no_fixtures/board/API/api_tests/api_rights/.pytest_cache/v" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
